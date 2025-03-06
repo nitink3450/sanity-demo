@@ -14,7 +14,7 @@ export default async function Page() {
           <div className="mx-auto max-w-2xl py-20 lg:max-w-4xl lg:px-12 text-center">
             <div className="flex flex-col gap-4 items-center">
               <div className=" text-md leading-6 prose uppercase">
-                A starter template for 2
+                A starter template for 22
               </div>
               <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-black">
                 <Link className="text-red-500 " href="https://sanity.io/">
